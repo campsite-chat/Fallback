@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://campsite.chat/sitemap-index.xml
